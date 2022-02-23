@@ -24,7 +24,7 @@ References:
 - [x] Module 1: Introduction to GitHub Actions
 - [x] Module 2: Syntax
 - [x] Module 3: Environments and Secrets
-- [ ] Module 4: Workflow Templates
+- [x] Module 4: Workflow Templates
 - [ ] Module 5: Custom actions
 - [ ] Module 6: Self-hosted runners
 - [ ] Module 7: CI/CD
